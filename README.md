@@ -33,26 +33,6 @@ levelup solves this by bringing **transparency, enforcement, and insurance** on-
 
 ---
 
-## **Why Stellar?**
-
-levelup is designed **for Stellar**, not just deployed on it.
-
-Stellar enables:
-
-- Fast settlement (seconds)
-- Ultra-low transaction fees
-- Multi-asset support (USDC, fiat anchors, local tokens)
-- Multi-sig & conditional transactions
-- Built-in primitives for escrow-like flows
-
-This makes Stellar ideal for:
-
-- Rotational savings groups
-- Upfront payouts backed by locked savings
-- Insurance-backed default protection
-- Cross-border community finance
-
----
 
 ## **How It Works**
 
@@ -60,7 +40,7 @@ This makes Stellar ideal for:
 
 Members join or create savings groups where:
 
-1. Everyone commits to a **fixed contribution amount**
+1. Everyone commits to a **contribution amount ahead**
 2. Contributions happen on a **regular cycle** (weekly, monthly, etc.)
 3. Each cycle, **one member receives the total pot**
 4. The cycle continues until **everyone has received their turn**
